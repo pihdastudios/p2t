@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Depok Club
 
-You can use the [editor on GitHub](https://github.com/pihdastudios/p2t/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Anggota
+| Nama   |	NIM |	Peran |
+| ------- | --------- | ------- |
+| Adib Siddhi Adhipta |	19/444034/TK/49230 |	Softwate Engineer,AI Engineer |
+| Ghiffari Imam Wicaksono | 	19/446778/TK/49883 |	Cloud Engineer |
+| Marthasya Mumtahanah Mustaqimah | 	19/444059/TK/49255 |	UI/UX Designer |
+| Vincent Colin |	19/444076/TK/49272 |	Project Manager |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Project Senior Project TI 
+Departemen Teknologi Elektro dan Teknologi Informasi, Fakultas Teknik, 
+Universitas Gadjah Mada
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Ringkasan
 
-```markdown
-Syntax highlighted code block
+Nama Produk : T2P <br/>
+Jenis Produk : Aplikasi Desktop <br/>
+Latar Belakang : Sebagian besar dari sistem presensi yang digunakan masih belum menerapkan teknologi yang sudah ada dan dapat meningkatkan efektifitas dalam proses presensi. Pada saat ini, sistem presensi terutama di universitas masih sering menggunakan tanda tangan sebagai bukti presensi. Hal tersebut menimbulkan masalah dimana para mahasiswa dapat menitipkan presensi dengan meminta tolong mahasiswa yang hadir untuk menandatangani lembar/form presensi. <br/>
+Rumusan Masalah : <br/>
+Dibutuhkan cara baru untuk melakukan presensi. <br/>
+Ide solusi : Menggunakan AI untuk melakukan face recognition sebagai salah satu kriteria untuk mengisi presensi. Dengan adanya face recognition tersebut,  mahasiswa yang tidak hadir juga tidak dapat mengisi presensi.<br/>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### KOMPETITOR 1 <br/>
+Nama : Jibble <br/>
+Jenis Kompetitor : Direct<br/>
+Jenis Produk : SaaS<br/>
+Target Customer : perusahaan/universitas<br/>
+Kelebihan : <br/>
+1. Terdapat di android<br/>
+2. Memiliki scheduling<br/>
+Kekurangan :<br/>
+- Integrasi dengan backend sendiri <br/>
+Key Competitive Advantage & Unique Value :<br/>
+- Memiliki system scheduling untuk menentukan jam kerja, istirahat dan overtime<br/>
+ 
+## KOMPETITOR 2<br/>
+Nama : Hikvision Access Terminal<br/>
+Jenis Kompetitor : Indirect<br/>
+Jenis Produk : Hardware<br/>
+Target Customer : perusahaan/universitas<br/>
+Kelebihan :<br/>
+- Geo-fencing<br/>
+Kekurangan :<br/>
+- membutuhkan hardware khusus<br/>
+Key Competitive Advantage & Unique Value<br/>
+- Sulit untuk dimanipulasi<br/>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pihdastudios/p2t/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### KOMPETITOR 3 <br/>
+Nama : Truein<br/>
+Jenis Kompetitor : Direct<br/>
+Jenis Produk : SaaS <br/>
+Target Customer : perusahaan/universitas<br/>
+Kelebihan<br/>
+1. Face recognition sambil menggunakan masker<br/>
+2. Hanya dapat melalakukan presensi pada lokasi tertentu menggunakan gps<br/>
+Kekurangan<br/>
+1. Mahal<br/>
+Key Competitive Advantage & Unique Value<br/>
+- Dapat meminta izin/cuti <br/>
