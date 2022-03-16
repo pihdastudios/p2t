@@ -83,21 +83,23 @@ Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
 
 4. Functional requirements
 | FR | Deskripsi |
-| :---: | :---: |
+
+| --- | --- |
 | Kamera | Kamera harus dapat menangkap muka untuk dikirim ke awan. |
 | Pengenalan Wajah | Wajah harus dicocokan dengan identifikasi yang ada |
 
 5. Entity relationship diagram
-![ERD](/least-github-pages/assets/images/2/erd.png)
+![ERD](/p2t/assets/images/2/erd.png)
 
 6. Low fidelity wireframe
-![Peserta Halaman Utama](/least-github-pages/assets/images/2/pMS.png)
-![Login Admin](/least-github-pages/assets/images/2/algin.png)
-![Halaman Utama Admin](/least-github-pages/assets/images/2/huadm.png)
-![Edit Peserta](/least-github-pages/assets/images/2/hedp.png)
-![Tambah Peserta](/least-github-pages/assets/images/2/addp.png)
+![Peserta Halaman Utama](/p2t/assets/images/2/pMS.png)
+![Login Admin](/p2t/assets/images/2/algin.png)
+![Halaman Utama Admin](/p2t/assets/images/2/huadm.png)
+![Edit Peserta](/p2t/assets/images/2/hedp.png)
+![Tambah Peserta](/p2t/assets/images/2/addp.png)
 
 | Kegiatan | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Brainstorming	| xx | xx | xx | xx | | | | | | | | |									
 | Developing | | xx | xx | xx | xx | xx | xx | xx | xx | xx | xx | |								
