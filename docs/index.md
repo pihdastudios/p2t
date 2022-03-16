@@ -1,5 +1,6 @@
 # Depok Club
 
+# Lab 2.2
 ## Anggota
 | Nama   |	NIM |	Peran |
 | ------- | --------- | ------- |
@@ -36,7 +37,7 @@ Kekurangan :<br/>
 Key Competitive Advantage & Unique Value :<br/>
 - Memiliki system scheduling untuk menentukan jam kerja, istirahat dan overtime<br/>
  
-## KOMPETITOR 2<br/>
+### KOMPETITOR 2<br/>
 Nama : Hikvision Access Terminal<br/>
 Jenis Kompetitor : Indirect<br/>
 Jenis Produk : Hardware<br/>
@@ -61,3 +62,42 @@ Kekurangan<br/>
 1. Mahal<br/>
 Key Competitive Advantage & Unique Value<br/>
 - Dapat meminta izin/cuti <br/>
+
+# Lab 2.3
+
+### Metodologi
+Agile
+### Alasan
+Penambahan fitur dapat diuji ketika sudah siap dan tidak harus menyelesaikan aplikasi tersebut
+
+### Perancangan
+1. Tujuan
+Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
+2. Pengguna potensial
+    - Perusahaan
+    - Pabrik
+    - Universitas
+    - Kantor
+3. Use case diagram
+![Use Case Diagram](/least-github-pages/assets/images/2/use-case-diagram.png)
+
+4. Functional requirements
+| FR | Deskripsi |
+| :---: | :---: |
+| Kamera | Kamera harus dapat menangkap muka untuk dikirim ke awan. |
+| Pengenalan Wajah | Wajah harus dicocokan dengan identifikasi yang ada |
+
+5. Entity relationship diagram
+![ERD](/least-github-pages/assets/images/2/erd.png)
+
+6. Low fidelity wireframe
+![Peserta Halaman Utama](/least-github-pages/assets/images/2/pMS.png)
+![Login Admin](/least-github-pages/assets/images/2/algin.png)
+![Halaman Utama Admin](/least-github-pages/assets/images/2/huadm.png)
+![Edit Peserta](/least-github-pages/assets/images/2/hedp.png)
+![Tambah Peserta](/least-github-pages/assets/images/2/addp.png)
+| Kegiatan | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Brainstorming	| xx | xx | xx | xx | | | | | | | | |									
+| Developing | | xx | xx | xx | xx | xx | xx | xx | xx | xx | xx | |								
+| Testing	| | | | | | | | | | | xx | xx |												
