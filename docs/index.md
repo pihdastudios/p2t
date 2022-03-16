@@ -84,7 +84,7 @@ Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
     - Pabrik
     - Universitas
     - Kantor
-3. Use case diagram
+3. Use case diagram <br/>
 ![Use Case Diagram](/p2t/assets/images/2/use-case-diagram.png)
 
 4. Functional requirements
@@ -94,10 +94,10 @@ Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
 | Kamera | Kamera harus dapat menangkap muka untuk dikirim ke awan. |
 | Pengenalan Wajah | Wajah harus dicocokan dengan identifikasi yang ada |
 
-5. Entity relationship diagram
+5. Entity relationship diagram <br/>
 ![ERD](/p2t/assets/images/2/erd.png)
 
-6. Low fidelity wireframe
+6. Low fidelity wireframe <br/>
 ![Peserta Halaman Utama](/p2t/assets/images/2/pMS.png)
 ![Login Admin](/p2t/assets/images/2/algin.png)
 ![Halaman Utama Admin](/p2t/assets/images/2/huadm.png)
