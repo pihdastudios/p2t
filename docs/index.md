@@ -96,8 +96,9 @@ Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
 ![Halaman Utama Admin](/least-github-pages/assets/images/2/huadm.png)
 ![Edit Peserta](/least-github-pages/assets/images/2/hedp.png)
 ![Tambah Peserta](/least-github-pages/assets/images/2/addp.png)
+
 | Kegiatan | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Brainstorming	| xx | xx | xx | xx | | | | | | | | |									
 | Developing | | xx | xx | xx | xx | xx | xx | xx | xx | xx | xx | |								
 | Testing	| | | | | | | | | | | xx | xx |												
