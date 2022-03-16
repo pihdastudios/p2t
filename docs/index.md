@@ -83,7 +83,6 @@ Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
 
 4. Functional requirements
 | FR | Deskripsi |
-
 | --- | --- |
 | Kamera | Kamera harus dapat menangkap muka untuk dikirim ke awan. |
 | Pengenalan Wajah | Wajah harus dicocokan dengan identifikasi yang ada |
@@ -99,7 +98,6 @@ Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
 ![Tambah Peserta](/p2t/assets/images/2/addp.png)
 
 | Kegiatan | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Brainstorming	| xx | xx | xx | xx | | | | | | | | |									
 | Developing | | xx | xx | xx | xx | xx | xx | xx | xx | xx | xx | |								
