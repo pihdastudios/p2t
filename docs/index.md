@@ -32,8 +32,10 @@ Target Customer : perusahaan/universitas<br/>
 Kelebihan : <br/>
 1. Terdapat di android<br/>
 2. Memiliki scheduling<br/>
+
 Kekurangan :<br/>
 - Integrasi dengan backend sendiri <br/>
+
 Key Competitive Advantage & Unique Value :<br/>
 - Memiliki system scheduling untuk menentukan jam kerja, istirahat dan overtime<br/>
  
@@ -44,8 +46,10 @@ Jenis Produk : Hardware<br/>
 Target Customer : perusahaan/universitas<br/>
 Kelebihan :<br/>
 - Geo-fencing<br/>
+
 Kekurangan :<br/>
 - membutuhkan hardware khusus<br/>
+
 Key Competitive Advantage & Unique Value<br/>
 - Sulit untuk dimanipulasi<br/>
 
@@ -58,8 +62,10 @@ Target Customer : perusahaan/universitas<br/>
 Kelebihan<br/>
 1. Face recognition sambil menggunakan masker<br/>
 2. Hanya dapat melalakukan presensi pada lokasi tertentu menggunakan gps<br/>
+
 Kekurangan<br/>
 1. Mahal<br/>
+
 Key Competitive Advantage & Unique Value<br/>
 - Dapat meminta izin/cuti <br/>
 
@@ -79,7 +85,7 @@ Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
     - Universitas
     - Kantor
 3. Use case diagram
-![Use Case Diagram](/least-github-pages/assets/images/2/use-case-diagram.png)
+![Use Case Diagram](/p2t/assets/images/2/use-case-diagram.png)
 
 4. Functional requirements
 | FR | Deskripsi |
