@@ -88,6 +88,7 @@ Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
 ![Use Case Diagram](/p2t/assets/images/2/use-case-diagram.png)
 
 4. Functional requirements
+
 | FR | Deskripsi |
 | --- | --- |
 | Kamera | Kamera harus dapat menangkap muka untuk dikirim ke awan. |
