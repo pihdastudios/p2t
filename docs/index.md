@@ -109,3 +109,9 @@ Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
 | Brainstorming	| xx | xx | xx | xx | | | | | | | | |									
 | Developing | | xx | xx | xx | xx | xx | xx | xx | xx | xx | xx | |								
 | Testing	| | | | | | | | | | | xx | xx |												
+
+
+## Rancangan Arsitektur Cloud
+![ARCH](/p2t/assets/images/2/arch.png)
+
+Client akan berkomunikasi dengan managed database untuk meringankan beban dan menghubungi langsung layanan cognitive services untuk pendeteksi wajah yang diambil dari database. Hal ini agar cloud tidak memerlukan virtual machine maupun load balancer.
