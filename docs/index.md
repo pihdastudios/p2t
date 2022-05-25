@@ -117,7 +117,7 @@ Membuat sistem presensi yang lebih menjamin kehadiran seseorang/anggota kelompok
 Client akan berkomunikasi dengan managed database untuk meringankan beban dan menghubungi langsung layanan cognitive services untuk pendeteksi wajah yang diambil dari database. Hal ini agar cloud tidak memerlukan virtual machine maupun load balancer.
 
 ## Rancangan revisi
-![Cloud arch](/p2t/assets/images/2/cloud arch.png)
+![Cloud arch](/p2t/assets/images/3/cloud arch.png)
 
 ## Alur kerja
-![Cloud flowchart](/p2t/assets/images/2/cloud flowchart.png)
+![Cloud flowchart](/p2t/assets/images/3/cloud flowchart.png)
