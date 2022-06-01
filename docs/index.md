@@ -1,5 +1,5 @@
 # Depok Club
-
+https://github.com/pihdastudios/p2t-senor
 # Lab 2.2
 ## Anggota
 | Nama   |	NIM |	Peran |
